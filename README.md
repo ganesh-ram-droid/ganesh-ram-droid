@@ -45,7 +45,7 @@ A full-stack web application that automates paper submission, reviewer assignmen
 ## 📫 Connect With Me
 
 - 📧 Email: mganeshram2005@gmail.com  
-- 💼 LinkedIn: *(add your LinkedIn profile link here)*  
+- 💼 LinkedIn: www.linkedin.com/in/ganesh-ram-130b86277
 
 ---
 
