@@ -1,7 +1,8 @@
-## 👋 Hi, I'm Ganesh Ram
+# 👋 Hi, I'm Ganesh Ram
 
-🎓 B.Tech Information Technology  
-💻 Full Stack Developer | Web Technologies  
+🎓 **B.Tech Information Technology**  
+💻 **Full Stack Web Developer**  
+📍 India  
 
 ---
 
@@ -15,3 +16,46 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45"/>
 </p>
+
+---
+
+## 🛠 Tools & Platforms
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+</p>
+
+---
+
+## 📌 Featured Project
+
+### 📄 Conference Management System
+A full-stack web application that automates paper submission, reviewer assignment, and status tracking for academic conferences.
+
+**Tech Used:** React.js, Tailwind CSS, Node.js, Express.js, MySQL, JWT, Google OAuth
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ganesh-ram-droid&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh-ram-droid&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: mganeshram2005@gmail.com  
+- 💼 LinkedIn: *(add your LinkedIn profile link here)*  
+
+---
+
+⭐ *Thanks for visiting my GitHub profile!*
