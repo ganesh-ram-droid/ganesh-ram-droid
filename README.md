@@ -1,130 +1,184 @@
-# Hi there, I'm Ganesh Ram M 👋
+<div align="center">
 
-🎓 B.Tech Information Technology Student at National Engineering College  
-💻 Full Stack Developer | React.js Enthusiast | Problem Solver  
-📍 Sivakasi, Tamil Nadu, India  
+# Hi 👋, I'm Ganesh Ram M
+
+### Full Stack Developer • React Enthusiast • Cybersecurity Learner
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;React.js+Developer;Java+Programmer;Exploring+Cybersecurity+and+SOC;Always+Learning+New+Technologies" alt="Typing SVG" />
+
+<p>
+  <a href="mailto:mganeshram2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/ganesh-ram-droid">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://leetcode.com/YOUR_LEETCODE">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
+  </a>
+</p>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently exploring advanced Full Stack Development concepts.
-- 💼 Frontend Development Intern at **YounderBots**.
-- 🔐 Trained in SOC operations, SIEM tools, and vulnerability assessment.
-- 🏆 Passionate about building scalable web applications and solving coding challenges.
-- 🎯 Interested in Full Stack Development and Cybersecurity.
+🎓 Pursuing **B.Tech Information Technology** at **National Engineering College**
+
+💡 Passionate about crafting **modern web applications** and solving real-world problems through technology.
+
+🔭 Currently working as a **Frontend Development Intern at YounderBots**
+
+🌱 Exploring:
+- Advanced React Ecosystem
+- Backend Architecture
+- Cybersecurity & SOC Operations
+
+🏆 Achievements:
+- 🥈 2nd Place – Web Designing Competition
+- 🥉 3rd Place – Code Wars Coding Challenge
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
+
+<div align="center">
 
 ### Languages
-- Java
+<img src="https://skillicons.dev/icons?i=java" />
 
 ### Frontend
-- React.js
-- Tailwind CSS
-- HTML5
-- CSS3
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 
 ### Backend
-- Express.js
+<img src="https://skillicons.dev/icons?i=express,nodejs" />
 
-### Databases
-- MongoDB
-- MySQL
+### Database
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-### Tools & Platforms
-- Git
-- GitHub
-- VS Code
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
 
 ---
 
-## 📚 Education
+## 📌 Featured Projects
 
-**National Engineering College**  
-Bachelor of Technology in Information Technology  
-📅 2023 – Present  
-📈 CGPA: **8.56**
+### 🛒 Student Market Place
+
+> A campus marketplace platform designed to simplify peer-to-peer buying and selling.
+
+✨ Features:
+- Secure Authentication
+- Ownership-Based Access Control
+- Product Lifecycle Management
+- Responsive User Interface
+
+**Tech Stack**
+
+```text
+React.js • Express.js • MongoDB
+```
+
+---
+
+### 📄 NEC ICODSES Conference Management System
+
+> Streamlining research paper submission and peer-review workflows.
+
+✨ Features:
+- Research Paper Submission
+- Reviewer Management System
+- Decision Processing
+- Role-Based Authentication
+
+**Tech Stack**
+
+```text
+React.js • Express.js • MySQL
+```
+
+🔗 https://nec.edu.in/ICoDSES
 
 ---
 
 ## 💼 Experience
 
 ### Frontend Development Intern | YounderBots
-- Developed scalable and responsive web applications using React.js and CSS.
-- Contributed to projects including:
-  - Electronic Records Management System
-  - Human Resources Management System
 
----
+```text
+Duration: Ongoing
+```
 
-## 🏗️ Projects
-
-### 🛒 Student Market Place
-**Tech Stack:** React.js, Express.js, MongoDB
-
-- Built a campus marketplace platform for buying and selling student essentials.
-- Implemented secure authentication and ownership-based access control.
-- Designed robust product lifecycle management features.
-
----
-
-### 📄 NEC ICODSES Conference Management System
-**Tech Stack:** React.js, Express.js, MySQL
-
-- Developed a full-stack conference management platform.
-- Streamlined research paper submission and peer-review workflows.
-- Implemented role-based authentication and reviewer modules.
-
-🔗 https://nec.edu.in/ICoDSES
+- Developed responsive interfaces using React.js.
+- Contributed to Electronic Records Management Systems.
+- Built Human Resources Management modules.
+- Improved UI performance and usability.
 
 ---
 
 ## 🔐 Industrial Training
 
 ### SOC Trainee | Seven Hills Cloud Technology
-**March 2026**
 
 Worked with:
-- Wazuh
-- ELK Stack
-- MISP
-- OpenVAS
 
-Gained hands-on experience in:
-- SIEM
+```text
+Wazuh • ELK Stack • MISP • OpenVAS
+```
+
+Gained practical exposure in:
+
+- SIEM Operations
 - Threat Intelligence
 - Vulnerability Assessment
-
----
-
-## 🏆 Achievements
-
-🥈 2nd Place – Intra-College Web Designing Competition
-
-🥉 3rd Place – Intra-College Coding Challenge (Code Wars)
+- Security Monitoring
 
 ---
 
 ## 📜 Certifications
 
-- Full Stack Developer Bootcamp – GeeksforGeeks
-- React.js – Udemy
-- Network Addressing and Basic Troubleshooting – Cisco
+| Certification | Platform |
+|---------------|-----------|
+| Full Stack Developer Bootcamp | GeeksforGeeks |
+| React.js | Udemy |
+| Network Addressing & Troubleshooting | Cisco |
 
 ---
 
-## 🌐 Connect With Me
+## 📊 GitHub Analytics
 
-- 📧 Email: mganeshram2005@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/
-- 💻 GitHub: https://github.com/ganesh-ram-droid
-- 🧩 LeetCode: https://leetcode.com/
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ganesh-ram-droid&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh-ram-droid&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh-ram-droid&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-### ⭐ "Code, Learn, Build, Repeat."
+## 🎯 Current Goals
 
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+- ✅ Master Full Stack Development
+- ✅ Strengthen Data Structures & Algorithms
+- ✅ Build impactful real-world projects
+- 🔄 Contribute to Open Source
+- 🔄 Deepen Cybersecurity expertise
+
+---
+
+<div align="center">
+
+### 🌟 *"Turning ideas into impactful digital experiences."*
+
+<img src="https://komarev.com/ghpvc/?username=ganesh-ram-droid&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
