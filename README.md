@@ -151,17 +151,7 @@ Gained practical exposure in:
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ganesh-ram-droid&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-
-
-</div>
-
----
 
 ## 🎯 Current Goals
 
