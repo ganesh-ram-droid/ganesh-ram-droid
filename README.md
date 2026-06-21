@@ -13,10 +13,10 @@
   <a href="https://github.com/ganesh-ram-droid">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/ganesh-ramm/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE">
+  <a href="https://leetcode.com/u/Ganesh_Ram2/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
   </a>
 </p>
